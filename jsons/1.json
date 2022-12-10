@@ -1,0 +1,16 @@
+{
+    "name": "Noids",
+    "description": "Introducing the Noids. They are the revolutionary humanoids!",
+    "image": "https://brknarsy.github.io/pngs/1.png",
+    "external_url": "https://brknarsy.github.io/",
+    "attributes": [
+        {
+            "trait_type": "Element",
+            "value": "Thunder"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Cloud"
+        }
+    ]
+}
