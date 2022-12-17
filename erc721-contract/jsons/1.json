@@ -1,7 +1,7 @@
 {
-    "name": "Noids",
-    "description": "Introducing the Noids. They are the revolutionary humanoids!",
-    "image": "https://brknarsy.github.io/pngs/1.png",
+    "name": "Token",
+    "description": "Token standard for non-fungible tokens",
+    "image": "https://brknarsy.github.io/erc721-foundry/pngs/1.png",
     "external_url": "https://brknarsy.github.io/",
     "attributes": [
         {
